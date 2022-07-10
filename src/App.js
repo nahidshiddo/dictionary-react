@@ -5,13 +5,23 @@ export default function App() {
   return (
     <div className="App">
       <div className="container">
-        <header className="App-header"></header>
-        <h1>Online Dictionary</h1>
+        <header className="App-header">
+          <h1>Dictionary</h1>
+        </header>
         <main>
           <Dictionary defaultKeyword="book" />
         </main>
         <footer className="App-footer">
-          <small>Coded by Nahid</small>
+          <small>
+            Coded by Nahid S and{" "}
+            <a
+              href="https://github.com/nahidshiddo/dictionary-react"
+              target="_blank"
+              rel="noreferrer"
+            >
+              open-source on github
+            </a>
+          </small>
         </footer>
       </div>
     </div>
