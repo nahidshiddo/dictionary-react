@@ -6,6 +6,11 @@ a {
   color: rgb(67, 131, 98);
 }
 
+.App {
+  max-width: 960px;
+  margin: 0 auto;
+}
+
 .App-header {
   margin: 40px 0;
 }
