@@ -19,7 +19,7 @@ export default function App() {
               target="_blank"
               rel="noreferrer"
             >
-              open-source on github
+              open-source on Github.
             </a>
           </small>
         </footer>
