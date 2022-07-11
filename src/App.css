@@ -1,9 +1,10 @@
 body {
-  background: rgb(186, 218, 213);
+  background: #849dce;
 }
 
 a {
-  color: rgb(67, 131, 98);
+  color: rgb(77, 96, 204);
+  font-weight: bold;
 }
 
 .App {
@@ -15,7 +16,6 @@ a {
   text-align: center;
   font-size: 48px;
   font-weight: bold;
-  color: rgb(30, 80, 69);
 }
 
 .App-header {
@@ -25,4 +25,6 @@ a {
 .App-footer {
   text-align: center;
   margin: 30px 0;
+  font-weight: bold;
+  color: white;
 }
